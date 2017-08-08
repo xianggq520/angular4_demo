@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../client/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/proxy.conf.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/app.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/app.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/app.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/app.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/shared/web-socket.service.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/stock/stock.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/stock/stock.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/stock/stock.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/web-socket/web-socket.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../client/src/app/web-socket/web-socket.component.ts" charset="UTF-8" />
+  </component>
+</project>
